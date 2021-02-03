@@ -10,4 +10,3 @@ if ( isNaN(userData) ) {
 } else {
     alert('You input a number! Yay!')
 }
-    
